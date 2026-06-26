@@ -72,5 +72,3 @@ This project uses **one table only**, as required by the assignment.
 ## Video Link
 YouTube: (https://youtu.be/HOI5HiwbPtc)
 
-## GitHub Link
-(isi link repository GitHub kamu di sini)
