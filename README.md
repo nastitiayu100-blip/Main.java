@@ -63,7 +63,7 @@ This project uses **one table only**, as required by the assignment.
 
 ## Top 5 Scorers
 
-![Top 5 Scorers](screenshots/top5.jpeg)
+![Top 5 Scorers](screenshots/top5scorers.jpeg)
 
 ## Game
 
